@@ -1,0 +1,14 @@
+{
+  "files": [
+    "src/main.ts",
+    "src/ts/**/*.ts"
+  ],
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "target": "es5",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
